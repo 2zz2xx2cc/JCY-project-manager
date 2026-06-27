@@ -1,0 +1,117 @@
+{
+  "projectsFolder": "内容/计划",
+  "defaultView": "table",
+  "ganttGranularity": "week",
+  "ganttWeekLabel": "weekNumber",
+  "statuses": [
+    {
+      "id": "todo",
+      "label": "未开始",
+      "color": "#6b7280",
+      "icon": "·",
+      "complete": false
+    },
+    {
+      "id": "in-progress",
+      "label": "处理中",
+      "color": "#3b82f6",
+      "icon": "-",
+      "complete": false
+    },
+    {
+      "id": "blocked",
+      "label": "阻塞中",
+      "color": "#ef4444",
+      "icon": "!",
+      "complete": false
+    },
+    {
+      "id": "discussing",
+      "label": "讨论中",
+      "color": "#f97316",
+      "icon": "+",
+      "complete": false
+    },
+    {
+      "id": "on-hold",
+      "label": "搁置中",
+      "color": "#eab308",
+      "icon": "/",
+      "complete": false
+    },
+    {
+      "id": "done",
+      "label": "已完成",
+      "color": "#10b981",
+      "icon": "x",
+      "complete": true
+    },
+    {
+      "id": "deferred",
+      "label": "已延期",
+      "color": "#7c3aed",
+      "icon": ">",
+      "complete": false
+    },
+    {
+      "id": "planned",
+      "label": "已计划",
+      "color": "#0ea5e9",
+      "icon": "<",
+      "complete": false
+    },
+    {
+      "id": "cancelled",
+      "label": "已取消",
+      "color": "#6b7280",
+      "icon": "#",
+      "complete": true
+    }
+  ],
+  "priorities": [
+    {
+      "id": "critical",
+      "label": "Critical",
+      "color": "#c47070",
+      "icon": ""
+    },
+    {
+      "id": "high",
+      "label": "High",
+      "color": "#b8a06b",
+      "icon": ""
+    },
+    {
+      "id": "medium",
+      "label": "Medium",
+      "color": "#8a94a0",
+      "icon": ""
+    },
+    {
+      "id": "low",
+      "label": "Low",
+      "color": "#79b58d",
+      "icon": ""
+    }
+  ],
+  "globalTeamMembers": [
+    "焦重阳"
+  ],
+  "kanbanShowSubtasks": true,
+  "kanbanShowDescriptionPreview": true,
+  "notificationsEnabled": true,
+  "notificationLeadDays": 2,
+  "autoSchedule": true,
+  "saveTaskOnClose": true,
+  "projectFilters": {},
+  "collapsedTasks": {
+    "内容/计划/美团.md": [
+      "year2024meituan0001",
+      "year2025meituan0001",
+      "year2026meituan0001"
+    ],
+    "内容/计划/笔记项目.md": [
+      "flrlt7vimqs6xl3u"
+    ]
+  }
+}
