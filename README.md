@@ -1,4 +1,5 @@
 # JCY Project Manager
+改造自插件 [](https://community.obsidian.md/plugins/project-manager),自己使用过程中微调修改，去除一些bug，当前整体变化不大。
 
 一款为 [Obsidian](https://obsidian.md) 打造的全功能项目管理插件，提供甘特图、看板、表格三种视图，让你的项目计划和任务管理完全融入笔记工作流。
 
